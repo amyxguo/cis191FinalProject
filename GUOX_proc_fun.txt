@@ -1,0 +1,6 @@
+1. in /proc/version, Linux kernel:  Linux version 3.5.0-26-generic (buildd@akateko) (gcc version 4.7.2 (Ubuntu/Linaro 4.7.2-2ubuntu1) ) #42-Ubuntu SMP Fri Mar 8 23:20:06 UTC 2013
+2. in /proc/filesystems shows my kernel supports ext3 filesystems
+3. in /proc/swaps shows the size of my swap space is 1046524
+4. in /proc/14462/cmdline shows the command initiated ssh is ssh@eniac
+5. in /proc/14397/cmdline shows the command started firefox window is /usr/lib/firefox/firefox^@
+in /proc/cpuinfo shows speed of first processor is 2261.008 MHz. 
