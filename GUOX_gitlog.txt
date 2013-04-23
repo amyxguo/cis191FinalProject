@@ -1,0 +1,47 @@
+commit 0703388234caa946985df3b146748c714d2c83e2
+Author: Amy Guo <juicifruitolic@gmail.com>
+Date:   Tue Apr 23 13:38:53 2013 -0700
+
+    added proc_fun.txt
+
+commit 687a96443eae19563631a0f97f6add2f6a14c952
+Author: Amy Guo <juicifruitolic@gmail.com>
+Date:   Tue Apr 23 12:59:46 2013 -0700
+
+    test
+
+commit c00e2ea004d3ded76ff13562285d4334003e069d
+Author: Amy Guo <juicifruitolic@gmail.com>
+Date:   Tue Apr 23 12:56:56 2013 -0700
+
+    added README
+
+commit f648c7e4c6176284a5d1ef464eb7f454228155fc
+Author: Amy Guo <juicifruitolic@gmail.com>
+Date:   Tue Apr 23 12:53:58 2013 -0700
+
+    test post-receive first
+
+commit ca323ea48ef2689fe2983e5cb7cee1aea79b2e03
+Author: Amy Guo <juicifruitolic@gmail.com>
+Date:   Tue Apr 23 12:34:55 2013 -0700
+
+    test post-receive first
+
+commit 983bbf202f5e6813a4a4396ae19aa271c6ca1eb0
+Author: Amy Guo <juicifruitolic@gmail.com>
+Date:   Tue Apr 23 12:12:58 2013 -0700
+
+    test post-receive first
+
+commit 49e1549089d0b12d929449abe85e1908d1abff0a
+Author: Amy Guo <juicifruitolic@gmail.com>
+Date:   Tue Apr 23 12:11:07 2013 -0700
+
+    test post-receive first
+
+commit e897fd610b49ea292e5a52e03f0273a4c8c6c977
+Author: Amy Guo <juicifruitolic@gmail.com>
+Date:   Tue Apr 23 11:44:25 2013 -0700
+
+    testing

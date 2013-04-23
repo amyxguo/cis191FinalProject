@@ -1,1 +1,4 @@
-test test teste more test
+link to hosted pages on ec2: http://ec2-54-214-95-240.us-west-2.compute.amazonaws.com
+github repo: https:/github.com/Junemelody/cis191FinalProject
+For deploying files to the python server, I made git a sudoer so that it can go into another user (where the files for the server are stored) and pull from the git repo in git user. The commands for this step are in post-receive. 
+Note: From my own machine, I named the git remote in ec2 "origin" and the remote on github "github". From the ubuntu user on ec2, where I hosted my files, I named the git remote on ec2 "local". 

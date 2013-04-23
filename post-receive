@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /home/ubuntu/cis191FinalProject/pythonServer
+unset GIT_DIR
+echo "git" | sudo -S git pull local master
